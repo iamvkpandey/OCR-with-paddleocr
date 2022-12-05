@@ -10,3 +10,7 @@ https://drive.google.com/drive/folders/1ntab_xCiyfoj0feYZ1CkiPQMVT5LI_J4?usp=sha
 	3. Run the "menu.py" file only and choose the option to perform task.
     4. Paste the image with path for example: C:\Users\dell\Music\project_ocr\test_images\1181-receipt.jpg <br>
     You can use images from test_images folder.
+    
+    <br>
+NOTE: In order to run paddleocr use python 3.8 version only
+
